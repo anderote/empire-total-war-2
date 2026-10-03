@@ -1,0 +1,366 @@
+{
+  "factions": [
+    {
+      "id": "britain",
+      "name": "Great Britain",
+      "color": "#D45757"
+    },
+    {
+      "id": "france",
+      "name": "French Republic",
+      "color": "#508BDD"
+    },
+    {
+      "id": "spain",
+      "name": "Spanish Monarchy",
+      "color": "#E5B84B"
+    },
+    {
+      "id": "portugal",
+      "name": "Portugal",
+      "color": "#55A68A"
+    },
+    {
+      "id": "austria",
+      "name": "Habsburg Monarchy",
+      "color": "#DED9C5"
+    },
+    {
+      "id": "prussia",
+      "name": "Prussia",
+      "color": "#8392AB"
+    },
+    {
+      "id": "russia",
+      "name": "Russian Empire",
+      "color": "#6DA164"
+    },
+    {
+      "id": "ottoman",
+      "name": "Ottoman Empire",
+      "color": "#C86C7B"
+    },
+    {
+      "id": "naples",
+      "name": "Kingdom of Naples & Sicily",
+      "color": "#A779CA"
+    },
+    {
+      "id": "sardinia",
+      "name": "Kingdom of Sardinia",
+      "color": "#5FA6C7"
+    },
+    {
+      "id": "cisalpine",
+      "name": "Cisalpine Republic",
+      "color": "#77B6A0"
+    },
+    {
+      "id": "ligurian",
+      "name": "Ligurian Republic",
+      "color": "#58B4B7"
+    },
+    {
+      "id": "tuscany",
+      "name": "Grand Duchy of Tuscany",
+      "color": "#CC9870"
+    },
+    {
+      "id": "papal",
+      "name": "Papal States",
+      "color": "#DFCD82"
+    },
+    {
+      "id": "batavian",
+      "name": "Batavian Republic",
+      "color": "#E99757"
+    },
+    {
+      "id": "helvetic",
+      "name": "Helvetic Republic",
+      "color": "#D57C76"
+    },
+    {
+      "id": "bavaria",
+      "name": "Electorate of Bavaria",
+      "color": "#70B9DA"
+    },
+    {
+      "id": "wurttemberg",
+      "name": "Duchy of Württemberg",
+      "color": "#B98A64"
+    },
+    {
+      "id": "free-cities",
+      "name": "Free Imperial Cities",
+      "color": "#B5AE9A"
+    },
+    {
+      "id": "denmark-norway",
+      "name": "Denmark–Norway",
+      "color": "#BD6870"
+    },
+    {
+      "id": "sweden",
+      "name": "Sweden",
+      "color": "#85AFD3"
+    },
+    {
+      "id": "morocco",
+      "name": "Morocco",
+      "color": "#BB796A"
+    },
+    {
+      "id": "algiers",
+      "name": "Regency of Algiers",
+      "color": "#7F9A70"
+    },
+    {
+      "id": "tunis",
+      "name": "Beylik of Tunis",
+      "color": "#96B88A"
+    },
+    {
+      "id": "tripoli",
+      "name": "Pashalik of Tripoli",
+      "color": "#B49B65"
+    },
+    {
+      "id": "usa",
+      "name": "United States",
+      "color": "#72A7C9"
+    },
+    {
+      "id": "kongo",
+      "name": "Kingdom of Kongo",
+      "color": "#B58C64"
+    },
+    {
+      "id": "ethiopia",
+      "name": "Ethiopian Empire",
+      "color": "#C2AD64"
+    },
+    {
+      "id": "oman",
+      "name": "Sultanate of Oman",
+      "color": "#B0987C"
+    },
+    {
+      "id": "wadai",
+      "name": "Local African polities",
+      "color": "#A39A7C"
+    },
+    {
+      "id": "ashanti",
+      "name": "Asante & coastal polities",
+      "color": "#B58B57"
+    },
+    {
+      "id": "oyo",
+      "name": "Oyo & coastal polities",
+      "color": "#C19671"
+    },
+    {
+      "id": "yemen",
+      "name": "Imamate of Yemen",
+      "color": "#B57F91"
+    },
+    {
+      "id": "persia",
+      "name": "Qajar Persia",
+      "color": "#A77AAB"
+    },
+    {
+      "id": "mughal",
+      "name": "Mughal Empire",
+      "color": "#83B38B"
+    },
+    {
+      "id": "awadh",
+      "name": "Nawab of Awadh",
+      "color": "#AEC56F"
+    },
+    {
+      "id": "maratha",
+      "name": "Maratha Confederacy",
+      "color": "#D89B65"
+    },
+    {
+      "id": "mysore",
+      "name": "Kingdom of Mysore",
+      "color": "#C0AA73"
+    },
+    {
+      "id": "qing",
+      "name": "Qing Empire",
+      "color": "#D4B662"
+    },
+    {
+      "id": "tokugawa",
+      "name": "Tokugawa Shogunate",
+      "color": "#BA85A5"
+    },
+    {
+      "id": "joseon",
+      "name": "Joseon Korea",
+      "color": "#A5B2C6"
+    },
+    {
+      "id": "siam",
+      "name": "Kingdom of Siam",
+      "color": "#A889C2"
+    },
+    {
+      "id": "vietnam",
+      "name": "Tây Sơn Vietnam",
+      "color": "#A8BB7F"
+    },
+    {
+      "id": "burma",
+      "name": "Konbaung Burma",
+      "color": "#C8A16F"
+    }
+  ],
+  "provinceOwners": {
+    "scotland": "britain",
+    "england": "britain",
+    "wales": "britain",
+    "ireland": "britain",
+    "canadian-lands": "britain",
+    "southern-africa": "britain",
+    "sri-lanka": "britain",
+    "australian-coast": "britain",
+    "bengal": "britain",
+    "western-india": "britain",
+    "northern-france": "france",
+    "southern-france": "france",
+    "atlantic-france": "france",
+    "corsica": "france",
+    "belgian-lands": "france",
+    "lower-nile": "france",
+    "northern-iberia": "spain",
+    "southern-iberia": "spain",
+    "mexican-lands": "spain",
+    "guatemala": "spain",
+    "northern-andes": "spain",
+    "central-andes": "spain",
+    "southern-andes": "spain",
+    "river-plate": "spain",
+    "mississippi-lands": "spain",
+    "western-america": "spain",
+    "caribbean": "spain",
+    "portugal": "portugal",
+    "brazilian-atlantic": "portugal",
+    "northern-brazil": "portugal",
+    "southern-brazil": "portugal",
+    "southern-italy": "naples",
+    "sicily": "naples",
+    "northern-italy": "cisalpine",
+    "central-italy": "papal",
+    "netherlands": "batavian",
+    "guianas": "batavian",
+    "malay-archipelago": "batavian",
+    "northern-german-lands": "prussia",
+    "polish-lands": "prussia",
+    "southern-german-lands": "bavaria",
+    "swiss-lands": "helvetic",
+    "austrian-lands": "austria",
+    "bohemia": "austria",
+    "hungarian-lands": "austria",
+    "baltic-lands": "russia",
+    "western-russian-lands": "russia",
+    "ukrainian-lands": "russia",
+    "scandinavia": "sweden",
+    "finnish-lands": "sweden",
+    "balkan-lands": "ottoman",
+    "anatolia": "ottoman",
+    "mesopotamia": "ottoman",
+    "arabia": "ottoman",
+    "morocco": "morocco",
+    "algeria": "algiers",
+    "tunisia": "tunis",
+    "libya": "tripoli",
+    "new-england": "usa",
+    "atlantic-america": "usa",
+    "great-lakes": "usa",
+    "west-african-coast": "ashanti",
+    "congo-lands": "kongo",
+    "east-african-coast": "oman",
+    "ethiopian-highlands": "ethiopia",
+    "persian-lands": "persia",
+    "north-india": "mughal",
+    "southern-india": "mysore",
+    "chinese-heartland": "qing",
+    "chinese-interior": "qing",
+    "japan": "tokugawa",
+    "korea": "joseon",
+    "southeast-asia": "siam",
+    "mid-atlantic": "usa",
+    "chesapeake": "usa",
+    "southern-atlantic": "usa",
+    "ohio-valley": "usa",
+    "upper-canada": "britain",
+    "lower-canada": "britain",
+    "maritime-canada": "britain",
+    "newfoundland-and-labrador": "britain",
+    "hudson-bay-lands": "britain",
+    "western-canadian-lands": "britain",
+    "volga-and-urals": "russia",
+    "siberia": "russia",
+    "russian-pacific": "russia",
+    "russian-alaska": "russia",
+    "middle-niger": "wadai",
+    "sahel-caravan-lands": "wadai",
+    "wadai-lands": "wadai",
+    "sudanese-interior": "wadai",
+    "madagascar": "wadai",
+    "red-sea-coast": "wadai",
+    "gold-coast": "ashanti",
+    "yoruba-lands": "oyo",
+    "hausa-lands": "wadai",
+    "zambezi-lands": "portugal",
+    "punjab": "mughal",
+    "chinese-western-lands": "qing",
+    "siam": "siam",
+    "vietnam": "vietnam",
+    "burma": "burma",
+    "lao-lands": "siam",
+    "cambodian-lands": "siam"
+  },
+  "cityOwners": {
+    "Turin": "france",
+    "Genoa": "ligurian",
+    "Venice": "austria",
+    "Bologna": "cisalpine",
+    "Florence": "tuscany",
+    "Cagliari": "sardinia",
+    "Hamburg": "free-cities",
+    "Hanover": "britain",
+    "Frankfurt": "free-cities",
+    "Stuttgart": "wurttemberg",
+    "Krakow": "austria",
+    "Oslo": "denmark-norway",
+    "Copenhagen": "denmark-norway",
+    "Zagreb": "austria",
+    "Kingston": "britain",
+    "Santo Domingo": "france",
+    "Georgetown": "britain",
+    "Dakar": "france",
+    "Lagos": "oyo",
+    "Lourenço Marques": "portugal",
+    "Sanaa": "yemen",
+    "Lucknow": "awadh",
+    "Delhi": "maratha",
+    "Madras": "britain",
+    "Melaka City": "britain",
+    "Manila": "spain",
+    "Hanoi": "vietnam",
+    "Rangoon": "burma"
+  },
+  "notes": "Authored 1800 opening scenario, using a simplified post-Marengo northern Italy setup. Controllers are assigned by regional capital; region masks remain modern geographic/Voronoi envelopes, not reconstructed sovereignty. French Egypt is military occupation; Regency dependencies are represented separately. Colonial regions overstate inland control, and local/Indigenous polities require a future border/roster pass. No precise day or full worldwide historical validation is claimed.",
+  "sources": [
+    "https://www.euratlas.net/history/europe/1800/index.html",
+    "https://www.animatedmaps.div.ed.ac.uk/Divinity_Map2/1763-1803.html",
+    "https://history.state.gov/milestones/1801-1829/louisiana-purchase"
+  ]
+}
